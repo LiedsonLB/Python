@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Linguagem C
-Um repositório voltado para estudo da linguagem C
-=======
 # Linguagem Python
 Um repositório voltado para estudo da linguagem Python
->>>>>>> b5f8e3997c197d18f8a3cb4d0461fcb1ac105efc
 
 # Conhecimentos utilizados:
 <div style="display: flex;">
